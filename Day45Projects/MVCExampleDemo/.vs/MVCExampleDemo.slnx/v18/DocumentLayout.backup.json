@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day45Projects\\MVCExampleDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3943D4-D45C-41C9-8DF2-B0B2A37B58D3}|MVCExampleDemo\\MVCExampleDemo.csproj|d:\\akshitcapgemeniassignments\\day45projects\\mvcexampledemo\\mvcexampledemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C3943D4-D45C-41C9-8DF2-B0B2A37B58D3}|MVCExampleDemo\\MVCExampleDemo.csproj|solutionrelative:mvcexampledemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3943D4-D45C-41C9-8DF2-B0B2A37B58D3}|MVCExampleDemo\\MVCExampleDemo.csproj|d:\\akshitcapgemeniassignments\\day45projects\\mvcexampledemo\\mvcexampledemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3943D4-D45C-41C9-8DF2-B0B2A37B58D3}|MVCExampleDemo\\MVCExampleDemo.csproj|solutionrelative:mvcexampledemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day45Projects\\MVCExampleDemo\\MVCExampleDemo\\Views\\Home\\display.cshtml",
+              "RelativeDocumentMoniker": "MVCExampleDemo\\Views\\Home\\display.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day45Projects\\MVCExampleDemo\\MVCExampleDemo\\Views\\Home\\display.cshtml*",
+              "RelativeToolTip": "MVCExampleDemo\\Views\\Home\\display.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:27:16.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day45Projects\\MVCExampleDemo\\MVCExampleDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCExampleDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day45Projects\\MVCExampleDemo\\MVCExampleDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCExampleDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:50:39.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
