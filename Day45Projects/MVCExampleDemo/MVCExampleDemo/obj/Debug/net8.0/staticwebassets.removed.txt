@@ -1,5 +1,0 @@
-D:\AkshitCapgemeniAssignments\Day45Projects\MVCExampleDemo\MVCExampleDemo\wwwroot\images\cold_drink.webp
-D:\AkshitCapgemeniAssignments\Day45Projects\MVCExampleDemo\MVCExampleDemo\wwwroot\images\rice.webp
-D:\AkshitCapgemeniAssignments\Day45Projects\MVCExampleDemo\MVCExampleDemo\wwwroot\images\roti.webp
-D:\AkshitCapgemeniAssignments\Day45Projects\MVCExampleDemo\MVCExampleDemo\wwwroot\images\urad_dal.webp
-D:\AkshitCapgemeniAssignments\Day45Projects\MVCExampleDemo\MVCExampleDemo\wwwroot\images\apple.jpg

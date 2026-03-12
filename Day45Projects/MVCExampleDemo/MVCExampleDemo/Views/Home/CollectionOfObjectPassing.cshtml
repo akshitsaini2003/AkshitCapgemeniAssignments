@@ -38,6 +38,11 @@
 				<td>@mod.EmployeeName</td>
 				<td>@mod.EmpSalary</td>
 				<td><img src="@mod.ImageUrl" alt="@mod.ImageUrl" height="100px" width="100px" /></td>
+				<td>
+					<a href="/Home/Details/@mod.EmployeeId">Details</a>
+					<a asp-controller="Home" asp-action="Details"
+					   asp-route-id="@mod.EmployeeId">Details</a>
+				</td>
 			</tr>
 		}
 	</tbody>
