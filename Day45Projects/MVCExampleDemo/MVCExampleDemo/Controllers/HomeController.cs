@@ -54,7 +54,14 @@ namespace MVCExampleDemo.Controllers
             new Employee{EmployeeId=105,EmployeeName="Samar",EmpSalary=45000,ImageUrl="/images/empCollection/roti.webp" ,DeptId=30},
             new Employee{EmployeeId=106,EmployeeName="Akshit",EmpSalary=55000,ImageUrl="/images/empCollection/urad_dal.webp" ,DeptId=20},
         };
+        List<Dept> deptlist = new List<Dept>()
+        {
+         new Dept {DeptId=10,DeptName="Sales"},
 
+         new Dept {DeptId=20,DeptName="HR"},
+
+         new Dept {DeptId=30,DeptName="Software"}
+        };
         public IActionResult collectionOfDept()
         {
             return View(deptlist);
@@ -62,7 +69,7 @@ namespace MVCExampleDemo.Controllers
 
         public IActionResult EmpsInDept(int deptId)
         {
-            var employees=empList.Where(x=>x.EmployeeId==deptId).ToList();
+            var employees=empList.Where(x=>x.DeptId==deptId).ToList();
             return View(employees);
         }
 
@@ -117,14 +124,7 @@ namespace MVCExampleDemo.Controllers
 
 
         //Department Controller Work
-        List<Dept> deptlist = new List<Dept>()
-        {
-         new Dept {DeptId=10,DeptName="Sales"},
-
-         new Dept {DeptId=10,DeptName="HR"},
-
-         new Dept {DeptId=20,DeptName="Software"}
-        };
+       
 
         //public IActionResult MixedObjectPassing(int empId)
         //{
