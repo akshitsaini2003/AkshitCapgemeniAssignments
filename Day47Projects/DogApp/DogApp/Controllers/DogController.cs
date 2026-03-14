@@ -16,9 +16,11 @@ namespace DogApp.Controllers
 
 
         // GET: DogController
-        public ActionResult Index()
+        public ActionResult Index(string? search)
         {
-            return View(dogs);
+            var filtered = string.IsNullOrEmpty(search) ? dogs : dogs.Where(d => d.Name != null && d.Name.Contains(search, StringComparison.OrdinalIgnoreCase)).ToList();
+
+            return View(filtered);
         }
 
         // GET: DogController/Details/5
@@ -63,43 +65,80 @@ namespace DogApp.Controllers
         // GET: DogController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var dog=dogs.FirstOrDefault(x=>x.ID == id);
+            return View(dog);
         }
 
         // POST: DogController/Edit/5
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Edit(Dog d)
+        //{
+        //   if(ModelState.IsValid)
+        //    {
+        //        var existing=dogs.FirstOrDefault(x=>x.ID==d.ID);
+        //        if(existing is not null)
+        //        {
+        //            existing.Name = d.Name;
+        //            existing.Age = d.Age;
+        //            existing.Description = d.Description;
+        //        }
+        //        return RedirectToAction("Index");
+        //    }
+        //   return View(d);
+        //}
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(Dog d, IFormFile imageFile)
         {
-            try
+            if (ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+                var existing = dogs.FirstOrDefault(x => x.ID == d.ID);
 
+                if (existing != null)
+                {
+                    existing.Name = d.Name;
+                    existing.Description = d.Description;
+                    existing.Age = d.Age;
+
+                    // If new image uploaded
+                    if (imageFile != null && imageFile.Length > 0)
+                    {
+                        var imageName = Guid.NewGuid().ToString() + Path.GetExtension(imageFile.FileName);
+                        var path = Path.Combine(_environment.WebRootPath, "images", imageName);
+
+                        using (var stream = new FileStream(path, FileMode.Create))
+                        {
+                            imageFile.CopyTo(stream);
+                        }
+
+                        existing.ImagePath = "/images/" + imageName;
+                    }
+                }
+
+                return RedirectToAction("Index");
+            }
+
+            return View(d);
+        }
         // GET: DogController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            return View(dogs.FirstOrDefault(x=>x.ID==id));
         }
 
         // POST: DogController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(Dog d)
         {
-            try
+            var dog=dogs.FirstOrDefault(x=>x.ID==d.ID);
+            if(dog != null)
             {
-                return RedirectToAction(nameof(Index));
+                dogs.Remove(dog);
             }
-            catch
-            {
-                return View();
-            }
+            return RedirectToAction("Index");
         }
     }
 }
