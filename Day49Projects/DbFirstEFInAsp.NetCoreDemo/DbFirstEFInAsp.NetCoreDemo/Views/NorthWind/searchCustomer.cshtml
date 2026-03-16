@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DbFirstEFInAsp.NetCoreDemo.Models.NorthWindViewModels.SpainCustomerViewModel>
+
+@{
+    ViewData["Title"] = "searchCustomer";
+}
+
+<h1>searchCustomer</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.custContName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.custCompName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.custContName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.custCompName)
+            </td>
+            <td>
+                <a asp-action="EditCustomer" asp-route-id="@item.custId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.custId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.custId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
