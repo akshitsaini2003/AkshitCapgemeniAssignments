@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbFirstEFInAsp.NetCoreDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcf553eebc06d4840d431137311c1f9979a4d1bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a74b14cac4a31330276017b2712e338ed47af5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbFirstEFInAsp.NetCoreDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbFirstEFInAsp.NetCoreDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

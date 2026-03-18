@@ -20,7 +20,24 @@ namespace DbFirstEFInAsp.NetCoreDemo.Controllers
             return View(spainCustomers);
         }
 
+        public IActionResult CustomerOrderDetails(string id)
+        {
+            NorthWindContext cnt = new NorthWindContext();
 
+            var orders = cnt.Orders
+                .Where(o => o.CustomerId == id)
+                .Select(o => new Order
+                {
+                    OrderId = o.OrderId,
+                    OrderDate = o.OrderDate,
+                    RequiredDate = o.RequiredDate,
+                    ShippedDate = o.ShippedDate
+                }).ToList();
+
+            ViewBag.CustomerId = id;
+
+            return View(orders);
+        }
         public IActionResult searchCustomer(string contactName)
         {
             NorthWindContext context = new NorthWindContext();
@@ -34,6 +51,31 @@ namespace DbFirstEFInAsp.NetCoreDemo.Controllers
                                      custCompName = customer.CompanyName
                                  };
             return View(searchCustomer);
+        }
+
+        public IActionResult ProductsInCategory(string categoryName)
+        {
+            NorthWindContext context =new NorthWindContext();
+            var productsInCategory = context.Products.Where(x => x.Category.CategoryName==categoryName)
+                .Select(x => new ProdCat
+                {
+                    prodname = x.ProductName,
+                    catname = x.Category.CategoryName
+                }).ToList();
+            return View(productsInCategory);
+        }
+
+        public IActionResult OrderRange(string range)
+        {
+            NorthWindContext context = new NorthWindContext();
+            var range1=Convert.ToInt32(range);
+            var custOrderCount = context.Customers.Where(x => x.Orders.Count() > range1)
+                .Select(x => new Customer
+                {
+                    CustomerId = x.CustomerId,
+                    ContactName = x.ContactName
+                });
+            return View(custOrderCount);
         }
 
         [HttpGet]

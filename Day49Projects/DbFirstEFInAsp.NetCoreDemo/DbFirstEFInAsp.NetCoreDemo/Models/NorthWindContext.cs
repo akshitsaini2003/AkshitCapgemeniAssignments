@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using DbFirstEFInAsp.NetCoreDemo.Models.NorthWindViewModels;
 
 namespace DbFirstEFInAsp.NetCoreDemo.Models;
 
@@ -91,6 +90,8 @@ public partial class NorthWindContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.UseCollation("SQL_Latin1_General_CP1_CI_AS");
+
+        modelBuilder.Entity<ProdCat>().HasNoKey();
 
         modelBuilder.Entity<AlphabeticalListOfProduct>(entity =>
         {
@@ -746,4 +747,6 @@ public partial class NorthWindContext : DbContext
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 
 public DbSet<DbFirstEFInAsp.NetCoreDemo.Models.NorthWindViewModels.SpainCustomerViewModel> SpainCustomerViewModel { get; set; } = default!;
+
+public DbSet<ProdCat> ProdCat { get; set; } = default!;
 }
