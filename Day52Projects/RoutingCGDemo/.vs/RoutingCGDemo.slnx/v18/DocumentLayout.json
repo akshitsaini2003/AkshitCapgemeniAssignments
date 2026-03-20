@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\routingcgdemo\\routingcgdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|solutionrelative:routingcgdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\routingcgdemo\\routingcgdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|solutionrelative:routingcgdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingCGDemo\\Views\\Student\\GetStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\fewColumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingCGDemo\\Views\\Student\\fewColumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\routingcgdemo\\routingcgdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA232BD9-FAE3-48DF-999F-41E3BFA44EE5}|RoutingCGDemo\\RoutingCGDemo.csproj|solutionrelative:routingcgdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Program.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Program.cs",
+              "RelativeToolTip": "RoutingCGDemo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:29:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fewColumns.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\fewColumns.cshtml",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Views\\Student\\fewColumns.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\fewColumns.cshtml",
+              "RelativeToolTip": "RoutingCGDemo\\Views\\Student\\fewColumns.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:24:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudent.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetStudent.cshtml",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Views\\Student\\GetStudent.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetStudent.cshtml",
+              "RelativeToolTip": "RoutingCGDemo\\Views\\Student\\GetStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:23:41.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "RoutingCGDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:22:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RoutingCGDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:13:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RoutingCGDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\RoutingCGDemo\\RoutingCGDemo\\Models\\Student.cs",
+              "RelativeToolTip": "RoutingCGDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:09:18.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
