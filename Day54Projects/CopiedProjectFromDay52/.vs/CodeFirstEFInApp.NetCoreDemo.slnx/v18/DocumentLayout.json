@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day54projects\\copiedprojectfromday52\\webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day54projects\\copiedprojectfromday52\\webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day54projects\\copiedprojectfromday52\\webapiinasp.netcoremvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day54projects\\copiedprojectfromday52\\webapiinasp.netcoremvcdemo\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7972563-DDC2-44A4-810A-8D9F0CFDAE35}|WebApiInAsp.NetCoreMvcDemo\\WebApiInAsp.NetCoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebApiInAsp.NetCoreMvcDemo\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebApiInAsp.NetCoreMvcDemo\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAJsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:08:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApiInAsp.NetCoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApiInAsp.NetCoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:58:55.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml",
+              "RelativeToolTip": "WebApiInAsp.NetCoreMvcDemo\\Views\\Employee\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:58:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiInAsp.NetCoreMvcDemo\\Program.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Program.cs",
+              "RelativeToolTip": "WebApiInAsp.NetCoreMvcDemo\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:47:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Data\\EmpContext.cs",
+              "RelativeDocumentMoniker": "WebApiInAsp.NetCoreMvcDemo\\Data\\EmpContext.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day54Projects\\CopiedProjectFromDay52\\WebApiInAsp.NetCoreMvcDemo\\Data\\EmpContext.cs",
+              "RelativeToolTip": "WebApiInAsp.NetCoreMvcDemo\\Data\\EmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:36:08.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

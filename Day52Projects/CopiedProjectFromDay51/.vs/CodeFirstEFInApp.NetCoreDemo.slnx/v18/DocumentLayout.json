@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\copiedprojectfromday51\\codefirstefinapp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|solutionrelative:codefirstefinapp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\copiedprojectfromday51\\codefirstefinapp.netcoredemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|solutionrelative:codefirstefinapp.netcoredemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\copiedprojectfromday51\\codefirstefinapp.netcoredemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|solutionrelative:codefirstefinapp.netcoredemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\copiedprojectfromday51\\codefirstefinapp.netcoredemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|solutionrelative:codefirstefinapp.netcoredemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|d:\\akshitcapgemeniassignments\\day52projects\\copiedprojectfromday51\\codefirstefinapp.netcoredemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1674BE-CF9C-595E-7343-9CAF42751669}|CodeFirstEFInApp.NetCoreDemo\\CodeFirstEFInApp.NetCoreDemo.csproj|solutionrelative:codefirstefinapp.netcoredemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInApp.NetCoreDemo\\Program.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFInApp.NetCoreDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:36:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInApp.NetCoreDemo\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CodeFirstEFInApp.NetCoreDemo\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:35:32.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInApp.NetCoreDemo\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "CodeFirstEFInApp.NetCoreDemo\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:21:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Repositories\\IPost.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInApp.NetCoreDemo\\Repositories\\IPost.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Repositories\\IPost.cs",
+              "RelativeToolTip": "CodeFirstEFInApp.NetCoreDemo\\Repositories\\IPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:17:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInApp.NetCoreDemo\\Models\\Post.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day52Projects\\CopiedProjectFromDay51\\CodeFirstEFInApp.NetCoreDemo\\Models\\Post.cs",
+              "RelativeToolTip": "CodeFirstEFInApp.NetCoreDemo\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:08:29.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
