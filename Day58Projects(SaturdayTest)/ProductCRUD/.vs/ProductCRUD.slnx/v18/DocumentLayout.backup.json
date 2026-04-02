@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,133 +94,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260328045023_initial migration for adding table to db.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs",
-              "RelativeToolTip": "ProductCRUD\\Migrations\\20260328045023_initial migration for adding table to db.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:50:23.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260328044710_initial migration for adding table to db.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs",
-              "RelativeToolTip": "ProductCRUD\\Migrations\\20260328044710_initial migration for adding table to db.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:47:10.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Program.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Program.cs",
-              "RelativeToolTip": "ProductCRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:37:08.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "ProductCRUD\\wwwroot\\index.html",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\wwwroot\\index.html",
-              "RelativeToolTip": "ProductCRUD\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-28T04:34:07.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductCRUD\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:33:38.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProductCRUD\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ProductCRUD\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswBkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:33:28.886Z",
+              "WhenOpened": "2026-03-28T05:12:52.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Services\\ProductService.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Services\\ProductService.cs",
-              "RelativeToolTip": "ProductCRUD\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:33:04.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T05:11:56.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Interfaces\\IProductService.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "ProductCRUD\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:32:45.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductCRUD\\Models\\Product.cs",
               "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
               "RelativeToolTip": "ProductCRUD\\Models\\Product.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T04:32:25.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductCRUD\\appsettings.json",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\appsettings.json",
-              "RelativeToolTip": "ProductCRUD\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-28T04:30:36.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T05:08:52.664Z"
             }
           ]
         }

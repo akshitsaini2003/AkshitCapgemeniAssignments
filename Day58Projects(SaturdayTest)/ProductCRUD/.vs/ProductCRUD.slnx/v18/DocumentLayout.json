@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A2C069-9C02-46AE-85D0-0B3F40BBC789}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|d:\\akshitcapgemeniassignments\\day58projects(saturdaytest)\\productcrud\\productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A311-87B1-8DF4-ED69-05B75E17F454}|ProductCRUD\\ProductAPI.csproj|solutionrelative:productcrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 17,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProductCRUD\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T05:12:52.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductCRUD\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T05:11:56.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductCRUD\\Models\\Product.cs",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
-              "RelativeToolTip": "ProductCRUD\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T05:08:52.664Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -130,6 +91,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductCRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:12:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:11:56.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCRUD\\Models\\Product.cs",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day58Projects(SaturdayTest)\\ProductCRUD\\ProductCRUD\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCRUD\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:08:52.664Z"
             }
           ]
         }
