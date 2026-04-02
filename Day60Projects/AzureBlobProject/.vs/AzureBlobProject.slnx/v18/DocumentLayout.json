@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 17,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
-              "RelativeDocumentMoniker": "AzureBlobProject\\appsettings.json",
-              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
-              "RelativeToolTip": "AzureBlobProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T09:42:36.801Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -103,6 +90,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBlobProject\\appsettings.json",
+              "ToolTip": "D:\\AkshitCapgemeniAssignments\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
+              "RelativeToolTip": "AzureBlobProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T09:42:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Shared\\_Layout.cshtml",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "AzureBlobProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T09:52:02.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T09:52:02.005Z"
             }
           ]
         }
