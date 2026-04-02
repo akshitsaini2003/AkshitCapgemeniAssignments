@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\AkshitCapgemeniAssignments\\Day61Projects\\WebApiInAsp.netcoreMvcDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day61projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day61projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\controllers\\authenticationuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\authenticationuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day61projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day61projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\akshitcapgemeniassignments\\day61projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 43,
           "Children": [
             {
               "$type": "Bookmark",
@@ -198,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthenticationUIController.cs",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day61Projects\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo\\Controllers\\AuthenticationUIController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\AuthenticationUIController.cs",
@@ -211,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day61Projects\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\AdminController.cs",
@@ -219,8 +219,7 @@
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T05:23:12.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T05:23:12.989Z"
             },
             {
               "$type": "Document",
@@ -248,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day61Projects\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\AuthenticationController.cs",
@@ -256,8 +255,7 @@
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAkwG8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T04:14:49.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T04:14:49.164Z"
             },
             {
               "$type": "Document",
@@ -485,8 +483,7 @@
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAqwG0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T06:00:55.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T06:00:55.871Z"
             },
             {
               "$type": "Document",
@@ -514,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\AkshitCapgemeniAssignments\\Day61Projects\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\appsettings.json",
