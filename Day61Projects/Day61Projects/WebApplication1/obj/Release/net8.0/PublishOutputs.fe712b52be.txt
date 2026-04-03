@@ -1,0 +1,7 @@
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\AkshitCapgemeniAssignments\Day61Projects\Day61Projects\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
