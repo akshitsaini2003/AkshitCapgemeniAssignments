@@ -1,0 +1,7 @@
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.exe
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.dll
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.deps.json
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.runtimeconfig.json
+D:\AkshitCapgemeniAssignments\Week4\Day65Projects\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.pdb
