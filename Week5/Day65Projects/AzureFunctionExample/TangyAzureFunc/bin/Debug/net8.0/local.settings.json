@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=akshitstorageaccount;AccountKey=uGJ3zfkNjZz7/liG3+JgsLBQqVyOLJx3OdYxw2cCED2WOKT6pufDrzb82n3CDsrwCuWrGAzQYoUb+AStb7b7iw==;EndpointSuffix=core.windows.net",
+    //"AzureSqlDatabase": "Server=DESKTOP-GLF3FPU\\SQLEXPRESS;Database=AzureFundamentals;TrustServerCertificate=True;Trusted_Connection=True;",
+    "AzureSqlDatabase": "Server=DESKTOP-AKSHIT\\SQLEXPRESS;Database=AzureFundamentals;TrustServerCertificate=True;Trusted_Connection=True;",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}

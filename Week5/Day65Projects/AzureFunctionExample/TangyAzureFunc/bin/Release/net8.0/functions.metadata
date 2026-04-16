@@ -1,0 +1,52 @@
+[
+  {
+    "name": "OnQueueTriggerUpdateDatabase",
+    "scriptFile": "TangyAzureFunc.dll",
+    "entryPoint": "TangyAzureFunc.OnQueueTriggerUpdateDatabase.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "message",
+        "direction": "In",
+        "type": "queueTrigger",
+        "queueName": "SalesRequestOutBound",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  },
+  {
+    "name": "OnSalesUploadWriteToQueue",
+    "scriptFile": "TangyAzureFunc.dll",
+    "entryPoint": "TangyAzureFunc.OnSalesUploadWriteToQueue.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Anonymous",
+        "methods": [
+          "get",
+          "post"
+        ],
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "direction": "Out",
+        "type": "queue",
+        "queueName": "SalesRequestOutBound",
+        "connection": "AzureWebJobsStorage",
+        "properties": {}
+      }
+    ]
+  }
+]
